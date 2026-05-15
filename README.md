@@ -14,6 +14,8 @@
 
 ## Запуск из дирректории папки
 
+Догрузите к файлу target.parquet файл data.parquet 
+
 ```powershell
 python -m pip install -r requirements.txt
 python -m notebook notebooks/train_ml.ipynb

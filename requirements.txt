@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+h3
+folium
+matplotlib
+python-pptx
+branca
+pyarrow
+scikit-learn
